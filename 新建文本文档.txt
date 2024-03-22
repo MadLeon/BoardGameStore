@@ -1,0 +1,21 @@
+a landing page of a board game store. It has a horizontal navigation bar which includes a searching bar, a user login icon, a shopping cart icon. there should be a hero section. there should be a in store events section, 
+
+a sales info section, 
+
+a new game area, and a kick starter games area. there should a restock information area, a best sellers section, and a recently viewed area. It has a footer area, which includes store information and a area of social media connection area.
+
+打折中
+bgg排名 
+	top 100
+	200
+	300
+价格
+availability 库存
+	in stock
+	out of stock
+游戏类型
+年龄分级
+玩家人数 
+max number of players
+min number of players
+
