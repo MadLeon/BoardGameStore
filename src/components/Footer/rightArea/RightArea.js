@@ -8,7 +8,7 @@ function RightArea() {
       justifyContent="space-between"
       sx={{ p: 3 }}
     >
-      <Typography color="white">
+      <Typography variant="body2" color="white">
         © 2024, Mist Zone. All Rights Reserved.
       </Typography>
       <Stack spacing={1} direction="row">

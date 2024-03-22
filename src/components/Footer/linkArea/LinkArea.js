@@ -7,7 +7,7 @@ import SocialMediaStack from "./SocialMediaStack";
 
 function LinkArea() {
   return (
-    <Box display="flex" justifyContent="space-between" gap={3} sx={{ p: 5 }}>
+    <Box display="flex" justifyContent="space-between" gap={3} sx={{ p: 3 }}>
       <Stack spacing={1} display="flex" justifyContent="space-between">
         <Typography variant="h6" color="white">
           SHOP
